@@ -37,8 +37,8 @@ X. Zhou, Y. Wang, H. Xu, W. Liang, X. Li, G. Pang, "IMPACT: Influence Modeling f
 
 ```
 @inproceedings{zhou2026impact,
-  author={Zhou, Xiaohui and Wang, Yijie and Xu, Hongzuo and Liang, Weixuan and Li, Xiaoli and Pang, Guansong},  
-  title={IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection}, 
+  title={IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection},
+  author={Zhou, Xiaohui and Wang, Yijie and Xu, Hongzuo and Liang, Weixuan and Li, Xiaoli and Pang, Guansong},
   booktitle={International Conference on Machine Learning},   
   year={2026}
 }
