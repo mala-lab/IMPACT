@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 Please consider citing our paper if you find this repository useful.
 
-X. Zhou, Y. Wang, H. Xu, W. Liang, X. Li, G. Pang, "IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection" in ICML. 2023.
+X. Zhou, Y. Wang, H. Xu, W. Liang, X. Li, G. Pang, "IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection" in ICML. 2026.
 
 ```
 @inproceedings{zhou2026impact,
