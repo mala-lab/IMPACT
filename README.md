@@ -26,7 +26,7 @@ pip install -r requirements.txt
 - Run IMPACT on **CT** with default parameters under the general setting:
 
   ```python
-  python3 main.py --data SAD --setting general
+  python3 main.py --data CT --setting general
   ```
 
 ## Citation
